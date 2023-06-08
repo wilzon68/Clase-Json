@@ -1,1 +1,115 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántos kilómetros hay en una milla?",
+      "respuestas": [
+        {
+          "opcion": "A",
+          "texto": "1.6 km"
+        },
+        {
+          "opcion": "B",
+          "texto": "2.2 km"
+        },
+        {
+          "opcion": "C",
+          "texto": "1.8 km"
+        },
+        {
+          "opcion": "D",
+          "texto": "1.3 km"
+        }
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuántos gramos hay en una libra?",
+      "respuestas": [
+        {
+          "opcion": "A",
+          "texto": "454 g"
+        },
+        {
+          "opcion": "B",
+          "texto": "256 g"
+        },
+        {
+          "opcion": "C",
+          "texto": "567 g"
+        },
+        {
+          "opcion": "D",
+          "texto": "312 g"
+        }
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuántas onzas hay en un litro?",
+      "respuestas": [
+        {
+          "opcion": "A",
+          "texto": "33.8 oz"
+        },
+        {
+          "opcion": "B",
+          "texto": "16.9 oz"
+        },
+        {
+          "opcion": "C",
+          "texto": "28.3 oz"
+        },
+        {
+          "opcion": "D",
+          "texto": "12.5 oz"
+        }
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuántos metros hay en una yarda?",
+      "respuestas": [
+        {
+          "opcion": "A",
+          "texto": "0.9 m"
+        },
+        {
+          "opcion": "B",
+          "texto": "1.2 m"
+        },
+        {
+          "opcion": "C",
+          "texto": "1.8 m"
+        },
+        {
+          "opcion": "D",
+          "texto": "2.5 m"
+        }
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuántos litros hay en un galón?",
+      "respuestas": [
+        {
+          "opcion": "A",
+          "texto": "3.8 L"
+        },
+        {
+          "opcion": "B",
+          "texto": "2.5 L"
+        },
+        {
+          "opcion": "C",
+          "texto": "4.2 L"
+        },
+        {
+          "opcion": "D",
+          "texto": "3.1 L"
+        }
+      ],
+      "respuesta_correcta": "A"
+    }
+  ]
+}
 
