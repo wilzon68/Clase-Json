@@ -7,9 +7,19 @@
       "pais":"Perú"
     },
     {
-      "nombre":"   ",
-      "email":"     ",
-      "pais":"     
+      "nombre":"Kevin Alexander Manzano",
+      "email":"Kevinmanzano15000@gmail.com",
+      "pais":"El Salvador"    
+    },
+    {
+      "nombre":"Ronald Rojas",
+      "email":"ronaldgrojasg@hotmail.com",
+      "pais":"Perú"    
+    },
+    {
+      "nombre":"Alvaro Gutierrez",
+      "email":"por completar",
+      "pais":"Perú"    
     }
   ]
 }
